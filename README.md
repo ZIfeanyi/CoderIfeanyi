@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **ifeanyio569@gmail.com**, ifeanyi.coder@gmail.com, ifeanyio569@outlook.com
 
-- 📫 My web page:     **file:///E:/Ifeanyi%20PYTHON/Ifeanyi-Website-main/index.html**
+- 📫 My web page:     **https://coderifeanyi.github.io/Ifeanyi-Website/**
 
 <!---
 CoderIfeanyi/CoderIfeanyi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
