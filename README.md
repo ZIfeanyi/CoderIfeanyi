@@ -3,7 +3,7 @@
 - **I’m Currently Learning Pygame**
 - **👀I’m Looking To Collaborate On AI**
 -  **How To Reach Me **ifeanyio569@gmail.com**, Ifeanyio569@Outlook.Com**
-- **My Webpage:     https://coderifeanyi.github.io/ifeanyi-website/**
+- **My Webpage:     https://coderifeanyi.github.io/Ifeanyi-Website/**
 - MY Replit Account: https://replit.com/@CoderIfeanyi
 - **Discord: CoderIfeanyi#0834**
 - **Sandbox User: https://codesandbox.io/u/CoderIfeanyi**
