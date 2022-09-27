@@ -6,7 +6,7 @@
 - **My Webpage:     https://coderifeanyi.github.io/ifeanyi-website/**
 - MY Replit Account: https://replit.com/@CoderIfeanyi
 - **Discord: CoderIfeanyi#0834**
--**Sandbox User: https://codesandbox.io/u/CoderIfeanyi
+- **Sandbox User: https://codesandbox.io/u/CoderIfeanyi**
 <!---
 CODERIFEANYI/CODERIFEANYI IS A ✨ SPECIAL ✨ REPOSITORY BECAUSE ITS `README.MD` (THIS FILE) APPEARS ON YOUR GITHUB PROFILE.
 YOU CAN CLICK THE PREVIEW LINK TO TAKE A LOOK AT YOUR CHANGES.
