@@ -2,7 +2,7 @@
 - **I’m interested in Software Engineering, Programming.**
 - **I’m Currently Learning Pygame and Java**
 - **👀I’m Looking To Collaborate On AI**
--  **How To Reach Me **ifeanyio569@gmail.com**, Ifeanyio569@Outlook.Com**
+-  **How To Reach Me **ifeanyio569@gmail.com**, Ifeanyio569@Outlook.com**
 - **My Webpage:     https://coderifeanyi.github.io/Ifeanyi-Website/**
 - MY Replit Account: https://replit.com/@CoderIfeanyi
 - **Discord: CoderIfeanyi#0834**
