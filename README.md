@@ -18,4 +18,4 @@ YOU CAN CLICK THE PREVIEW LINK TO TAKE A LOOK AT YOUR CHANGES.
 --->!
 
 
-             ![coder](https://user-images.githubusercontent.com/113346969/217755814-a762ee10-58ff-4b82-a544-2f2b36700544.gif)
+![coder](https://user-images.githubusercontent.com/113346969/217755814-a762ee10-58ff-4b82-a544-2f2b36700544.gif)
